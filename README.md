@@ -1,2 +1,5 @@
 # Chinese-idnumber-city
-Chinese id number has relation with responding city
+Chinese ID card is related to the city and area
+
+## Dirs
+* 
