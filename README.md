@@ -1,5 +1,6 @@
 # Chinese-idCard-city
 Chinese ID card is related to the city and area
+验证中国身份证, 前4,6位对应市区
 
 ## Dirs
 * `idcard-4-city.txt`: map first 4 idcard numbers into city level. sep is '\t'
